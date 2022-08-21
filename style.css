@@ -1,0 +1,180 @@
+
+div {
+    background-color: rgb(152, 227, 252);
+    position: relative;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1em;
+     color: #40514E;
+}
+h1{
+margin: 25px auto 0 auto;
+    position: absolute;
+    top: 20px;
+    left: 450px;
+    font-family: 'The Girl Next Door', cursive;
+    font-size: 2em;
+    color: #66BFBF;
+}
+    
+h3{
+    margin: 0 auto 0 auto;
+position: absolute;
+top: 90px;
+left: 450px;
+font-family: 'Lobster Two', cursive;
+font-size: 1.4rem;
+margin-top: 20px;
+color: #66BFBF;
+font-weight: normal;
+
+}
+.top{
+    padding-top: 230px;
+    width: 100%;
+    height: 400%;
+
+}
+.middle{
+   
+
+}
+.bottom{
+   
+}
+.bottom-cloud{
+    position: absolute;
+    left: 25%;
+    top: 25%;
+}
+.top-cloud{
+    position: absolute;
+    right: 80px;
+    
+}
+.profile{
+    position: relative;
+ border-top: 10px;
+ padding-top: 10px;
+}
+.bottom-container{
+    color: #66BFBF;
+
+}
+a{
+    color: #66BFBF;
+
+}
+.skill-row{
+    width: 50%;
+ margin: 100px auto 100px auto;
+ text-align: left;
+ line-height: 2;
+ 
+
+
+}
+
+p{
+    text-align:;
+
+}
+.skill{
+    width: 40%;
+    margin: 0px auto 0px auto;
+    float: left;
+    margin-right: 25px;
+    
+
+}
+.prizes{
+    width: 40%;
+    float: right;
+}
+.Helo{
+   width: 20%;
+
+}
+.mountain{
+    width: 40%;
+
+}
+.lina{
+
+}
+.bottom-container{
+    padding: 50px 0 20px;
+    background-color: #12505f;
+
+    
+}
+.middle-container{
+    margin: 50px 0;
+
+    background-color: white;
+
+}
+hr{
+border: dotted #40514E 6px;
+border-bottom: 0;
+width: 5%;
+}
+.contact-me{
+    background-color: white;
+
+}
+.skills{
+    
+    background-color: white;
+
+}
+p{
+    background-color: white;
+
+}
+
+.profile{
+    background-color: white;
+
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #11999e);
+    background-image: -moz-linear-gradient(top, #3498db, #11999e);
+    background-image: -ms-linear-gradient(top, #3498db, #11999e);
+    background-image: -o-linear-gradient(top, #3498db, #11999e);
+    background-image: linear-gradient(to bottom, #3498db, #11999e);
+    -webkit-border-radius: 11;
+    -moz-border-radius: 11;
+    border-radius: 11px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #11cdd4 2px;
+    text-decoration: none;
+  }
+ 
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+  a{
+    color: #3498db;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+a:hover{
+    color:lightskyblue ;
+}
